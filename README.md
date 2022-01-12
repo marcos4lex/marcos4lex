@@ -1,5 +1,5 @@
 <div align="center">
-  <h3>Olá! Eu sou o Marcos Alexandre 👋</h3>
+  <h2>Olá! Eu sou o Marcos Alexandre 👋</h2>
 - 🌱 Tenho 26 anos e estou graduando em Análise e Desenvolvimento de sistemas. Atualmente estou no início dos estudos em HTML, CSS e Javascript, visando me tornar um desenvolvedor front-end.<br>
 - 👯 Estou sempre aberto a troca de experiências com quem quer que seja. ✌️😎
 </div><br>
@@ -15,8 +15,8 @@
   ##
 <div align="center">
   <a href="https://github.com/marcos4lex">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcos4lex&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcos4lex&layout=compact&langs_count=7&theme=onedark"/>
+  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=marcos4lex&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
+  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcos4lex&layout=compact&langs_count=7&theme=onedark"/>
 </div>
 
   
