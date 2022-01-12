@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Olá! Eu sou o Marcos Alexandre 👋</h1>
+  <h2>Olá! Eu sou o Marcos Alexandre 👋</h2>
 - 🌱 Tenho 26 anos e estou graduando em Análise e Desenvolvimento de sistemas. Atualmente estou no início dos estudos em HTML, CSS e Javascript, visando me tornar um desenvolvedor front-end.<br>
 - 👯 Estou sempre aberto a troca de experiências com quem quer que seja. ✌️😎
 </div><br>
