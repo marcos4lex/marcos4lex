@@ -15,8 +15,8 @@
   ##
 <div align="center">
   <a href="https://github.com/marcos4lex">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=marcos4lex&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcos4lex&layout=compact&langs_count=7&theme=onedark"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=marcos4lex&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcos4lex&layout=compact&langs_count=7&theme=onedark"/>
 </div>
 
   
