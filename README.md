@@ -1,7 +1,6 @@
-<div align="center">
-  <h2>Olá! Eu sou o Marcos Alexandre 👋</h2>
-- 🌱 Tenho 26 anos e estou graduando em Análise e Desenvolvimento de sistemas. Atualmente estou no início dos estudos em HTML, CSS e Javascript, visando me tornar um desenvolvedor front-end.<br>
-- 👯 Estou sempre aberto a troca de experiências com qualquer um. ✌️😎
+<div>
+  <h2>Olá! Eu sou Marcos Alexandre 👋</h2>
+- 🌱 Tenho 26 anos e estou graduando em Análise e Desenvolvimento de sistemas. E atualmente estou focado dos estudos de html/css/js na faculdade. Eu sou alguém muito curioso e super enérgico quando se trata de novas tecnologias, e principalmente das que eu ainda desconheço. No geral, eu gosto fazer parte de grandes projetos e trocar experiências. E sempre tive o sonho de um dia poder criar uma solução; uma ideia; um projeto, seja ele qual for, que mude a vida das pessoas para melhor.😌
 </div><br>
 
 <div align="center">
