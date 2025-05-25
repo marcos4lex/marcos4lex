@@ -1,6 +1,6 @@
 <div>
   <h2>Olá! Eu sou Marcos Alexandre 👋</h2>
-Olá! Me chamo ***Marcos Alexandre***, sou formado em Análise e Desenvolvimento de Sistemas e atuo como <u>Supervisor de TI</u>, com experiência prática em liderança técnica, automações, controle de indicadores e padronização de processos.
+Olá! Me chamo Marcos Alexandre, sou formado em Análise e Desenvolvimento de Sistemas e atuo como Supervisor de TI, com experiência prática em liderança técnica, automações, controle de indicadores e padronização de processos.
 
 Nos últimos anos, desenvolvi uma visão sistêmica voltada para eficiência e melhoria contínua. Sempre fui apaixonado por tecnologia e programação, e atualmente estou em transição ativa para a carreira de **Desenvolvedor Full Stack**, com foco em back-end e estrutura de dados.
 
