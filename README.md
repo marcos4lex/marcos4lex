@@ -7,7 +7,7 @@ Nos últimos anos, desenvolvi uma visão sistêmica voltada para eficiência e m
 Estou aprofundando meus estudos e projetos em:
 - 🧠 **C / C++ / Python**
 - 💾 **MySQL / Estruturas de Dados**
-- 🛠️ **Linux / Git / GitHub**
+- 🛠️ **Linux**
 - 🌐 **HTML, CSS, JS, Bootstrap**
 - 🤖 Integração com **APIs e soluções baseadas em IA**
 
