@@ -1,6 +1,21 @@
 <div>
   <h2>Olá! Eu sou Marcos Alexandre 👋</h2>
-- 🌱 Tenho 27 anos e estou graduando em Análise e Desenvolvimento de sistemas. E atualmente estou focado dos estudos de html/css/js na faculdade. Eu sou alguém muito curioso e super enérgico quando se trata de novas tecnologias, e principalmente das que eu ainda desconheço. No geral, eu gosto fazer parte de grandes projetos e trocar experiências. E sempre tive o sonho de um dia poder criar uma solução; uma ideia; um projeto, seja ele qual for, que mude a vida das pessoas para melhor.
+Olá! Me chamo **Marcos Alexandre**, sou formado em Análise e Desenvolvimento de Sistemas e atuo como **Supervisor de TI**, com experiência prática em liderança técnica, automações, controle de indicadores e padronização de processos.
+
+Nos últimos anos, desenvolvi uma visão sistêmica voltada para eficiência e melhoria contínua. Sempre fui apaixonado por tecnologia e programação, e atualmente estou em transição ativa para a carreira de **Desenvolvedor Full Stack**, com foco em back-end e estrutura de dados.
+
+Estou aprofundando meus estudos e projetos em:
+- 🧠 **C / C++ / Python**
+- 💾 **MySQL / Estruturas de Dados**
+- 🛠️ **Linux / Git / GitHub**
+- 🌐 **HTML, CSS, JS, Bootstrap**
+- 🤖 Integração com **APIs e soluções baseadas em IA**
+
+Meu objetivo é contribuir com soluções robustas, limpas e bem estruturadas, combinando minha base prática de campo com desenvolvimento de software moderno.
+
+📫 Sinta-se à vontade para explorar meus repositórios e me chamar para trocar ideias ou colaborar em projetos!
+
+---
 </div><br>
 
 <div align="center">
